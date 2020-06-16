@@ -19,7 +19,7 @@ Barbados;52
 Belgium;56
 Bermuda;60
 Bhutan;64
-Bolivia;68
+Bolivia (Plurinational State of);68
 Bosnia and Herzegovina;70
 Botswana;72
 Bouvet Island;74
@@ -27,7 +27,7 @@ Brazil;76
 Belize;84
 British Indian Ocean Territory;86
 Solomon Islands;90
-Virgin Islands ;92
+Virgin Islands (British);92
 Brunei Darussalam;96
 Bulgaria;100
 Myanmar;104
@@ -43,14 +43,14 @@ Sri Lanka;144
 Chad;148
 Chile;152
 China;156
-Taiwan;158
+Taiwan_ Province of China;158
 Christmas Island;162
-Cocos Islands;166
+Cocos (Keeling) Islands;166
 Colombia;170
 Comoros;174
 Mayotte;175
 Congo;178
-Congo ;180
+Congo_ Democratic Republic of the;180
 Cook Islands;184
 Costa Rica;188
 Croatia;191
@@ -68,7 +68,7 @@ Ethiopia;231
 Eritrea;232
 Estonia;233
 Faroe Islands;234
-Falkland Islands;238
+Falkland Islands (Malvinas);238
 South Georgia and the South Sandwich Islands;239
 Fiji;242
 Finland;246
@@ -81,7 +81,7 @@ Djibouti;262
 Gabon;266
 Georgia;268
 Gambia;270
-Palestine  State of;275
+Palestine_ State of;275
 Germany;276
 Ghana;288
 Gibraltar;292
@@ -103,7 +103,7 @@ Hungary;348
 Iceland;352
 India;356
 Indonesia;360
-Iran;364
+Iran (Islamic Republic of);364
 Iraq;368
 Ireland;372
 Israel;376
@@ -114,8 +114,8 @@ Japan;392
 Kazakhstan;398
 Jordan;400
 Kenya;404
-Korea ;408
-Korea  Republic of;410
+Korea (Democratic People's Republic of);408
+Korea_ Republic of;410
 Kuwait;414
 Kyrgyzstan;417
 Lao People's Democratic Republic;418
@@ -140,7 +140,7 @@ Mauritius;480
 Mexico;484
 Monaco;492
 Mongolia;496
-Moldova  Republic of;498
+Moldova_ Republic of;498
 Montenegro;499
 Montserrat;500
 Morocco;504
@@ -152,8 +152,8 @@ Nepal;524
 Netherlands;528
 Curaçao;531
 Aruba;533
-Sint Maarten;534
-Bonaire  Sint Eustatius and Saba;535
+Sint Maarten (Dutch part);534
+Bonaire_ Sint Eustatius and Saba;535
 New Caledonia;540
 Vanuatu;548
 New Zealand;554
@@ -165,7 +165,7 @@ Norfolk Island;574
 Norway;578
 Northern Mariana Islands;580
 United States Minor Outlying Islands;581
-Micronesia;583
+Micronesia (Federated States of);583
 Marshall Islands;584
 Palau;585
 Pakistan;586
@@ -186,11 +186,11 @@ Romania;642
 Russian Federation;643
 Rwanda;646
 Saint Barthélemy;652
-Saint Helena  Ascension and Tristan da Cunha;654
+Saint Helena_ Ascension and Tristan da Cunha;654
 Saint Kitts and Nevis;659
 Anguilla;660
 Saint Lucia;662
-Saint Martin ;663
+Saint Martin (French part);663
 Saint Pierre and Miquelon;666
 Saint Vincent and the Grenadines;670
 San Marino;674
@@ -237,13 +237,13 @@ United Kingdom of Great Britain and Northern Ireland;826
 Guernsey;831
 Jersey;832
 Isle of Man;833
-Tanzania  United Republic of;834
+Tanzania_ United Republic of;834
 United States of America;840
-Virgin Islands ;850
+Virgin Islands (U.S.);850
 Burkina Faso;854
 Uruguay;858
 Uzbekistan;860
-Venezuela;862
+Venezuela (Bolivarian Republic of);862
 Wallis and Futuna;876
 Samoa;882
 Yemen;887
