@@ -1,5 +1,6 @@
 Python environment with an environment.yml
 Binder
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgeorgati/GAN_assignment/master)
 
 A Binder-compatible repo with an environment.yml file.
