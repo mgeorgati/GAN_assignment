@@ -1,11 +1,8 @@
-Python environment with an environment.yml
-Binder
+## A Binder-compatible repo with an environment.yml file.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgeorgati/GAN_assignment/master)
 
-A Binder-compatible repo with an environment.yml file.
-
-Access this Binder at the following URL
+Or access this Binder at the following URL:
 
 https://mybinder.org/v2/gh/mgeorgati/GAN_assignment/master
 
