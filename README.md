@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgeorgati/GAN_assignment/master)
+
+
 ## Setting up the environment
 
 The file [geoanalysis-env.yml] contains a specification of a virtual environment with all the Python modules needed for this course. To get up and running:
